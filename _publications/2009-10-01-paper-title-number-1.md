@@ -2,11 +2,10 @@
 title: "Modeling and Optimizing the Scaling Performance in Distributed Deep Learning Training"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2024
 venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3485447.3511981'
 citation: 'Ting Liu*, Tianhao Miao*, Qinghua Wu, Zhenyu Li, Guangxin He Jiaoren Wu, Shengzhuo Zhang, Xingwu Yang, Gareth Tyson, Gaogang Xie.'
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Modeling and Optimizing the Scaling Performance in Distributed Deep Learning Training"
+title: "Modeling and Optimizing the Scaling Performance in Distributed Deep Learning Training test"
 collection: publications
 category: conferences
 date: 2024-01-01

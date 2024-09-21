@@ -24,7 +24,7 @@ author:
   avatar           : "heguangxin.png"
   name             : "He Guangxin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong"
   # employer         : "Red Brick University"
   # uri              : # URL
